@@ -1,1 +1,1 @@
-# Threshold-Secret-Sharing-SChemes
+# Threshold-Secret-Sharing-Schemes
